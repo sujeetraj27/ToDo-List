@@ -1,0 +1,15 @@
+.loginApp {
+    padding: 60px 0;
+  }
+
+  .loginApp form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .form-group{
+      margin-bottom: 15px;
+  }
+  .btn{
+      background-color: red !important;
+      color: white !important;
+  }
